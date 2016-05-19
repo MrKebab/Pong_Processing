@@ -1,6 +1,6 @@
 boolean[] touches=new boolean[128];
-barre Bar_p1 = new barre(40, 300, 'z', 's');
-barre Bar_p2 = new barre(960, 300, 'o', 'l');
+barre Bar_p1 = new barre(40, 300,);
+barre Bar_p2 = new barre(960, 300,);
 Ball ball = new Ball();
 int score_p1 =0;
 int score_p2 = 0;
