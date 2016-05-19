@@ -2,11 +2,9 @@ class barre {
   int X, Y;
   char T_Up, T_Down;
 
-  barre (int PosX, int PosY, char key_up, char key_down) {
+  barre (int PosX, int PosY) {
     X = PosX;
     Y = PosY;
-    T_Up = key_up;
-    T_Down = key_down;
   }
 
   void Display() {
